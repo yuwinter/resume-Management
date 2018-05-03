@@ -47,4 +47,15 @@
 
 ### 技术清单
 以下均是我熟悉使用的技能
+- java基础：Scoket网络通信/多线程/NIO/java8编程
+- web框架：Spring系列/Mybatis/Netty/struts2/Hibernate
+- 微服务：/SpringBoot/Duboo/Zookeeper/SpringCloud/eureka
+- 中间件：Redis/ActiveMQ/Solr/Kafka
+- 服务器：Nginx/Tomcat/Weblogic
+- 前端框架：Bootstrap/Vue/Jquery
+- 数据库相关：MySQL/Oracle/SQL Server
+- 软件配置管理：Maven/Svn/Git
 
+掌握分布式文件系统fastDFS、全文搜索引擎solr、缓存技术redis集群搭建。
+熟悉集群下并发解决方案，高可用(Nginx,lvs),集群下的session共享，分布式锁Zookeeper解决方案。
+了解Elasticsearch全文检索，MySQL主从复制与读写分离，JVM参数调优。
